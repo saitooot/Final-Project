@@ -1,0 +1,321 @@
+html
+{
+    background-color: #ecf0f1;
+    font-family: sans-serif;
+    
+}
+body
+{
+    margin: 0px;
+}
+
+.image
+{
+    border: 4px solid #bcc2c6;
+    margin-top: 100px;
+    width: 120px;
+    height: 120px;
+    margin-left: 40px;
+    border-radius: 100%;
+    margin-bottom: 0px;
+}
+h3:hover
+{
+    color: blue;
+}
+h1
+{
+    font-size: 18px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    width: 200px;
+    margin-left: 5px;
+}
+h1:hover
+{
+    color: blue;
+}
+p
+{
+    font-size:14px;
+    color: #000000;
+    
+}
+.web
+{
+    color: #20374e;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    font-size: 18px;
+    width: 40px;
+    text-align: center;
+    margin-left: 86px;
+    
+}
+.Deve
+{
+    color: #20374e;
+    font-size: 18px;
+    margin-bottom: 0px;
+    text-align: center;
+    margin-top: 0px;
+    width: 85px;
+    margin-left: 65px;
+}
+.some
+{
+    color: #20374e;
+    margin-bottom: 0px;
+    font-size: 18px;
+    margin-top: 0px;
+    text-align: center;
+    margin-left: 57px;
+    width: 100px;
+}
+.img
+{
+    
+    float: left;
+    display: inline-block;
+    margin-top: 50px;
+    max-width: 35%;   
+    height: 520px;
+    margin-left: 50px;
+    
+}
+.dash
+{
+    margin-left: 40px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    width: 130px;
+    color: rgba(44, 214, 83, 0.65);
+}
+
+.About
+{
+    background: #ffffff;
+    border: 2px solid rgba(24, 126, 114, 0.3);
+    padding-top: 20px;
+    margin-left: 30px;
+    padding-left: 10px;
+    max-width: 850px;
+    border-radius: 15px;
+    height: 215px;
+    float: left;
+}
+.follow
+{
+    margin-left: 600px;
+    width: 208px;
+    font-size: 12px;
+}
+.color:hover
+{
+    color:red;
+}
+footer
+{
+    text-align: center;
+    min-width: 100%;
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+.Container
+{
+    max-width: 1300px;
+    min-width: 1400px;
+    height: 100%;
+    margin-top: 40px;
+    margin-left: 20px;
+    display: inline-block;
+}
+.Personal
+{
+    background: #ffffff;
+    border: 2px solid rgba(24, 126, 114, 0.3);
+    margin-top: 20px;
+    padding-top: 20px;
+    margin-left: 30px;
+    padding-left: 10px;
+    min-width: 850px;
+    border-radius: 15px;
+    height: 215px;
+    float: left;
+    
+}
+.FullName
+{
+    float: left;
+    margin-left: 10px;
+    margin-top: 15px;
+}
+.Profile
+{
+    width: 130px;
+    margin-left: 740px;
+    
+}
+
+.Prof
+{
+    font-family: fantasy;
+    font-size: 30px;
+    height: 40px;
+    width: 140px;
+    
+}
+.Prof:hover
+{
+    color: blue;
+}
+.Copy
+{
+    margin-top: 10px;
+    float: left;
+    margin-left: 100px;
+}
+.nav 
+{
+  text-align: right;
+}
+
+.Personal td{
+    background-color: #e6e6e6;
+    border-radius: 4px;
+    border: 0px solid #fff;
+    box-shadow: 0px 1px 2px 0px rgba(0,0,0,0.5);
+    padding: 0px;
+}
+
+.info_container{
+    float: left;
+    background-color: #6bd4bf;
+    color: white;
+    border-radius: 4px 0px 0px 4px;
+    padding: 10px;
+    font-size: 12px;
+}
+
+.info_container:hover
+{
+    color: blue;
+}
+
+.info_container2{
+    float: left;
+     padding: 10px;
+    font-size: 12px;
+}
+
+.info_container2:hover
+{
+    color: blue;
+}
+
+.personalDiv
+{
+    background-color: #ffffff;
+    margin-top: 50px;
+    max-width: 930px;
+    padding: 30px;
+    height: 590px;
+    margin-left: 300px;
+}
+.Lname
+{
+    font-size: 26px;
+    margin-left: 45px;
+    width: 130px;
+}
+.Fname
+{
+    font-size: 26px;
+    margin-left: 35px;
+    width: 150px;
+}
+
+.Link
+{
+    display: inline-block;
+    margin: 0 0px;
+    vertical-align: top;
+    float: right;
+    width: 70px;
+    text-transform: uppercase;
+}
+.Link1
+{
+    display: inline-block;
+    margin: 0 0px;
+    font-size: 12px;
+    vertical-align: top;
+    float: right;
+    width: 70px;
+    text-transform: uppercase;
+}
+.UL
+{
+    background: 2px solid rgba(24, 126, 114, 0.3);
+    padding: 20px;
+    left: 0px;
+    top: 0px;
+    
+    
+}
+.FooterUL
+{
+    max-width: 1270px;
+    min-width: 1270px;
+}
+a
+{
+    text-decoration: none;
+}
+.fixed
+{
+    position: fixed;
+    background-color: rgba(24, 126, 114, 0.3);
+    width: 100%;
+    display: inline-block;
+    
+}
+.nav_class ul
+{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    float: right;
+    color: white;
+    
+    
+    
+}
+.nav_class li
+{
+    display: inline;
+    float: left;
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+.nav_class a
+{
+    display: block;
+    width: 60px;
+    padding: 14px;
+    color: white;
+    margin-right: 20px;
+}
+
+.nav_class a:hover
+{
+    background-color: rgba(43, 175, 109, 0.81);
+}
+.nav_class
+{
+    display: inline-block;
+    width: 100%;
+    background-color: rgba(28, 98, 63, 0.81);
+    position:fixed; 
+}

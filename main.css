@@ -1,0 +1,146 @@
+html
+{
+    background-color: silver;
+    font-family: sans-serif;
+    
+}
+
+h3:hover
+{
+    color: black;
+}
+h1
+{
+    font-size: 34px;
+    margin-bottom: 0px;
+    margin-top: 30px;
+    width: 900px;
+    margin-left: 60px;
+    text-align: center;
+}
+p
+{
+    font-size: 23px;
+    margin-bottom: 0px;
+    margin-top: 100px;
+    width: 700px;
+    margin-left: 100px;
+    color: white;
+    background: black;
+    text-align: left;
+}
+footer
+{
+    text-align: center;
+    min-width: 100%;
+    padding-top: 15px;
+}
+.Container
+{
+    width: 1300px;
+     background: green;
+    height: 1000px;
+    margin-left: 60px;
+    margin-right: 10px;
+    display: inline-block;
+}
+.Personal
+{
+    background: white;
+    border: 2px solid rgba(24, 126, 114, 0.3);
+    padding-top: 20px;
+    margin-left: 30px;
+    padding-left: 10px;
+    min-width: 50px;
+    border-radius: 15px;
+    height: 215px;
+    float: left;
+}
+.About
+{
+    background: skyblue;
+    border: 2px solid rgba(24, 126, 114, 0.3);
+    padding-top: 50px;
+    margin-left: 20px;
+    padding-left:0px;
+    min-width: 2px;
+    border-radius: 0px;
+    height: 200px;
+    float: left;
+}
+
+.Copy
+{
+    margin-top: 10px;
+    float: left;
+    margin-left: 100px;
+}
+.nav 
+{
+  text-align: right;
+}
+
+
+.personalDiv
+{
+    margin-top: 60px;
+    max-width: 720px;
+    padding: 30px;
+    padding-top: 70px;
+    height: 0px;
+    margin-left: 200px;
+}
+.Link
+{
+    display: inline-block;
+    vertical-align: top;
+    margin: 0 10px;
+    float: right;
+    text-transform: uppercase;
+}
+.home
+{
+    text-align: center;
+    margin-left: 70px;
+    width: 150px;
+    height: 160px;
+}
+.h3Home
+{
+    text-align: center;
+    text-transform: uppercase;
+}
+.UL
+{
+    min-width: 1050px;
+    max-width: 1050px;
+}
+.Welcome
+{
+    margin-top: 20px;
+    float: left;
+    margin-left: 360px;
+    width: 700px;
+}
+.FooterUL
+{
+    min-width: 900px;
+    max-width: 950px;
+}
+
+.link1
+{
+    display: inline-block;
+    vertical-align: top;
+    margin: 0 10px;
+    float: right;
+    font-size: 12px;
+    text-transform: uppercase;
+}
+.FooterUL li:hover
+{
+    color: black;
+}
+a{
+    text-decoration: none;
+}
